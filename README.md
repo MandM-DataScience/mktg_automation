@@ -38,5 +38,22 @@ which includes but is not limited to:
 - FastAPI: The backend API is built using FastAPI
 - NextJS and JavaScript: The frontend is built using Next.js on Vercel
 
+### Next Steps
+
+We implemented another module (still in development) to automatically publish posts.
+
+You can see some of the results on our test social media accounts:
+- [Facebook](https://www.facebook.com/smartstartmktg)
+- [Instagram](https://www.instagram.com/smartstart.marketing)
+- [Twitter](https://twitter.com/SmartStart_Mktg)
+
+We also implemented another module (still in development) to automatically create and publish Shorts videos.
+
+You can see some of the results on our test social media accounts:
+- [Facebook](https://www.facebook.com/financialbites)
+- [Instagram](https://www.instagram.com/financialbites_tv)
+- [Twitter](https://twitter.com/FinancialBites_)
+- [Youtube](https://www.youtube.com/@FinancialBites-vd9bt)
+
 ## Contact
 For any inquiries or feedback, please reach out to our team at [blacklionsrl.italia@gmail.com](mailto://blacklionsrl.italia@gmail.com)
